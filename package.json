@@ -1,0 +1,9 @@
+{
+  "name": "restapi_mysql",
+  "version": "1.0.0",
+  "description": "mysql database",
+  "main": "app.js",
+  "repository": "https://github.com/Ya911/restapi_mysql.git",
+  "author": "ya911 <yi1@outlook.sa>",
+  "license": "MIT"
+}
