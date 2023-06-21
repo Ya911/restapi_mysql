@@ -1,0 +1,7 @@
+.gitignore
+.git
+.Docker-compose.yml
+.Dockerfile
+README.*
+yarn-error*
+.env

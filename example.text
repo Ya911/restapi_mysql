@@ -1,0 +1,11 @@
+  // let [rows, fields] = await connection.query(`create TABLE IF NOT EXISTS Users (
+    //   id tinyint NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    //   name varchar(15) NOT NULL , 
+    //   yars year ,
+    //   img blob ,
+    //   author smallint , 
+    //   price tinyint ,
+    //   FOREIGN KEY (id) REFERENCES author(id)
+    // )ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;`
+    // )
+    // console.log(`rows <b/> , ${rows[0]} : from /lib `);
